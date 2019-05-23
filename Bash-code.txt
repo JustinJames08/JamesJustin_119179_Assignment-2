@@ -1,0 +1,6 @@
+Run code in - Git Bash 
+$AlgoDat Submission 2/JamesJustin_119179_Assignment-2 
+$ javac heapsort.java
+$java heapsort
+
+
